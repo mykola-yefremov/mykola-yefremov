@@ -25,4 +25,7 @@ I'm passionate about Java development and enjoy creating innovative solutions. H
 
 I'm dedicated to learning and implementing the latest technologies to create efficient and scalable solutions. Don't hesitate to reach out if you'd like to connect or collaborate!
 
-![Snake Animation](https://raw.githubusercontent.com/efremnikolaus/efremnikolaus/output/snake.svg)
+
+![snake animation](https://github.com/efremnikolaus/efremnikolaus/blob/output/github-contribution-grid-snake2.svg)
+
+###
