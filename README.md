@@ -19,7 +19,7 @@ I'm passionate about Java development and enjoy creating innovative solutions. H
 ## Connect with Me
 
 - LinkedIn: [Nikolai Efremov](https://www.linkedin.com/in/nikolai-efremov/)
-- LeetCode: [LeetCode Profile](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fefremnikolaus&logo=leetcode&logoColor=yellow)
+- LeetCode: [LeetCode Profile](https://leetcode.com/efremnikolaus/)
 
 ## About
 
