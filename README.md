@@ -15,7 +15,7 @@ Hello! I’m Mykola, a passionate Java developer with a knack for creating scala
 ## ⚙️ Skills & Interests
 - **Languages**: Java, JavaScript, Scala
 - **Frameworks**: Spring, React.js
-- **Databases**: Amazon DynamoDB
+- **Databases**: PostgreSQL, MongoDB, Amazon DynamoDB
 - **Cloud**: Amazon Web Services (AWS)
 - **Tools**: Docker, Kubernetes, Grafana, Prometheus
 - **Interests**: System design, microservices architecture, AI development
