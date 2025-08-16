@@ -1,9 +1,8 @@
 # Hi, I'm Mykola Yefremov
 
-Junior Java Developer from Dortmund, Germany  
-Focused on backend development with **Java**, **Spring Boot**, **Docker**, and **REST APIs**  
-Passionate about building scalable systems using **microservices** and clean architecture  
-Open to full-time developer roles across Germany  
+Junior Java Software Engineer from Dortmund, Germany  
+Focused on backend development with **Java**, **Spring Framework**, **Docker**, and **REST APIs**  
+Passionate about building scalable systems using **microservices** and clean architecture    
 
 ---
 
